@@ -1,1 +1,1 @@
-# Snfrastructure_for_BeStrong_startup
+# Infrastructure_for_BeStrong_startup
